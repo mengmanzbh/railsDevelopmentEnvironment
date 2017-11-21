@@ -49,7 +49,7 @@ docker network rm hello-rails
 
 ## Using docker-compose
 ``` bash
-git clone https://github.com/benjamincaldwell/hello-docker-rails.git
+git clone https://github.com/mengmanzbh/railsDevelopmentEnvironment.git
 docker-compose up
 ```
 
