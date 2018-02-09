@@ -1,3 +1,8 @@
+
+学习网站rails：https://rails-practice.com/content/Chapter_2/2.1.html
+
+
+
 # hello-docker-rails
 [![Docker Automated build](https://img.shields.io/docker/automated/benjamincaldwell/hello-docker-rails.svg)](https://hub.docker.com/r/benjamincaldwell/hello-docker-rails/)
 
