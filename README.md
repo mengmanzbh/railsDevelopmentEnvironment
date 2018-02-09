@@ -1,6 +1,8 @@
 
 学习网站rails：https://rails-practice.com/content/Chapter_2/2.1.html
 
+rails g scaffold blog title:string content:text picture:string
+rake db:migrate
 
 
 # hello-docker-rails
