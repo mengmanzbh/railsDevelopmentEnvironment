@@ -1,5 +1,5 @@
 
-学习网站rails：https://rails-practice.com/content/Chapter_2/2.1.html
+学习网站https://ruby-china.github.io/rails-guides/getting_started.html
 
 rails g scaffold blog title:string content:text picture:string
 rake db:migrate
